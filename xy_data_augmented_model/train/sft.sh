@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 python finetune_qlora.py --train_args_file train_args/sft.json
